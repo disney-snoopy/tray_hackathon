@@ -23,6 +23,15 @@ We then used a K-means clustering model to identify trends in Tray's SaaS API ch
 - Low persona value
 - (Potential High SEO value; not required)
 
+## APP:
+
+App is not currently running in a network, to test please fork the repository and use the following command:
+- streamlit run app.py
+
+![image](https://user-images.githubusercontent.com/73958258/111911627-3d9a1880-8a5e-11eb-9087-2c126c2e488c.png)
+
+![image](https://user-images.githubusercontent.com/73958258/111911654-5c98aa80-8a5e-11eb-8221-489439a606c7.png)
+
 # Startup the project
 
 The initial setup.
