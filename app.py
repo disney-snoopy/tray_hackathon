@@ -2,7 +2,11 @@ import streamlit as st
 from tray_hackathon.predict import predict
 
 # setting wide screen
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title="Tray Clustering API",
+    page_icon="👾",
+    layout="wide", # wide
+    initial_sidebar_state="expanded") # collapsed
 
 expander_creators = st.beta_expander("👨‍🦰👨‍🦱Creators of Tray Clustering API👩‍🦱👱‍♂️", expanded=False)
 with expander_creators:
@@ -33,6 +37,12 @@ def main():
         cluster = predict(analyst_v, partner_v, persona_v, organic, seo_v)
         a1, a2, a3, a4, a5, a6, a7 = st.beta_columns((1,1,1,1,1,1,1))
         a4.write(f'This API belongs to cluster **{cluster}**.')
+        if cluster == 8:
+            st.success('API integration recommended for future expansion')
+        if cluster == 0 or cluster == 1 or cluster == 6 or cluster == 4:
+            st.info('API integration recommended following current product protocol') 
+        if cluster == 2 or cluster == 3 or cluster == 5 or cluster == 7 or cluster == 9:
+            st.error('API integration NOT recommended')
 
 if __name__ == "__main__":
     main()
