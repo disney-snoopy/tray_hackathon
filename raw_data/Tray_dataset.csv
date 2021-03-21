@@ -1,0 +1,200 @@
+,API,Analyst value (0 - 5),Partner value (0 - 5),Persona value (0 - 5),Growing market,Organic Search Volume,SEO Value (0 - 3),serving
+0,15Five,0,1,3,False,1161,2,False
+1,1Password,5,1,0,True,395,2,False
+2,2Checkout,1,1,0,True,317,2,False
+3,6sense,3,2,3,True,1145,2,False
+4,ActivTrak,2,5,3,False,996,2,False
+5,AdRoll,2,0,5,True,226,1,True
+6,Adverity,3,2,3,True,954,3,False
+7,Agiloft,1,0,0,True,0,0,False
+8,AgoraPulse,2,3,2,False,519,3,False
+9,Aircall,4,5,1,True,491,1,True
+10,Alteryx,4,1,5,False,1492,3,False
+11,Ambition,3,2,3,False,206,1,False
+12,Anvyl,4,5,1,False,299,2,False
+13,Aplos,4,2,2,False,0,0,False
+14,AppsFlyer,2,3,1,True,589,1,False
+15,AppZen,1,0,2,False,0,0,False
+16,ArangoDB,5,2,2,True,65,3,False
+17,ArchiveSocial,2,4,3,False,0,0,False
+18,Asana,2,1,5,True,1092,2,True
+19,Author-It,4,2,0,False,412,1,False
+20,Axure RP,5,1,0,False,241,2,False
+21,backblaze,1,4,5,False,119,1,False
+22,Badger Maps,3,5,3,True,307,3,False
+23,Bamboo HR,5,2,0,False,383,2,True
+24,beekeeper,4,0,4,True,0,0,False
+25,BetterWorks,5,4,5,True,622,3,False
+26,BigTime,4,0,3,False,0,0,False
+27,Bitnami,0,4,4,True,0,0,False
+28,Biznet Software,0,3,2,False,73,2,False
+29,Bizzabo,2,2,1,False,585,1,True
+30,Bombora,4,0,0,False,891,2,False
+31,Brandfolder,4,2,4,True,13,2,True
+32,Braze,2,1,5,True,650,2,True
+33,BugSnag,4,1,2,False,863,3,False
+34,Calendly,1,4,1,False,218,2,True
+35,CallTrackingMetrics,4,4,1,False,1783,3,False
+36,casavi,5,1,5,True,1350,3,False
+37,Celoxis,3,5,0,True,477,3,False
+38,Celtx,4,0,3,True,840,2,False
+39,Chargify,0,5,5,False,167,2,True
+40,ChatMeter,0,3,0,False,1730,3,False
+41,Chorus.ai,2,4,5,True,0,0,False
+42,ChurnZero,1,0,5,True,0,0,False
+43,CircleCI,0,0,3,False,0,0,False
+44,CleverTap,4,2,0,True,158,1,False
+45,Clio,5,2,5,True,0,0,False
+46,CodeSignal,0,0,4,False,70,1,False
+47,Cogito,0,5,1,False,20,2,False
+48,Collibra,3,0,1,True,91,1,False
+49,Copper,4,5,1,True,414,1,True
+50,Coralogix,2,1,1,True,972,2,False
+51,Creatio,3,0,0,False,806,3,False
+52,Crelate Talent,1,3,1,False,241,1,False
+53,Customer.io,3,4,0,False,98,3,False
+54,Dashlane,0,3,1,False,0,0,False
+55,Databricks,2,4,5,True,225,1,True
+56,Datadog,3,0,0,True,1178,2,True
+57,Dataiku,3,1,4,False,579,3,False
+58,Digital.ai,0,5,1,True,177,2,False
+59,Docebo,0,0,5,False,13,2,True
+60,Doodle,2,0,4,False,554,2,False
+61,Drift,2,0,0,True,1120,2,True
+62,Dubber,4,0,1,False,48,3,False
+63,E2Open,1,3,5,False,229,2,False
+64,eloomi,0,1,1,True,805,2,False
+65,Engagedly,1,1,4,True,1373,3,False
+66,Expensify,1,0,2,False,1655,3,False
+67,Faraday,2,0,2,False,242,1,False
+68,Folloze,3,1,5,True,43,1,False
+69,FormAssembly,3,2,2,True,0,0,False
+70,Fountain,2,1,3,True,271,1,False
+71,FreshBooks,0,5,4,False,0,0,False
+72,Freshworks,0,1,5,True,308,2,False
+73,Front,5,5,2,False,172,2,True
+74,Frontify,0,4,5,True,384,2,False
+75,FullStory,4,5,4,True,163,3,False
+76,Funnel.io,4,2,1,False,870,2,False
+77,Fusebill,0,0,5,False,0,0,False
+78,GetAccept,1,3,2,True,398,1,False
+79,GitLab,3,0,3,True,1506,3,False
+80,Gong.io,4,1,0,True,223,1,True
+81,grammarly,0,1,1,False,0,0,False
+82,Greenhouse Software,1,1,2,True,538,1,False
+83,Guild Education,0,2,3,True,552,1,False
+84,Gusto,1,4,0,True,0,0,False
+85,Help Scout,2,1,5,True,0,0,True
+86,HG Insights,3,1,2,False,632,2,False
+87,Highspot,3,5,5,True,1733,3,False
+88,Hiver,2,3,1,True,739,2,False
+89,HotJar,3,1,1,True,171,3,False
+90,jobber,0,3,1,False,832,3,False
+91,join.com,3,4,2,False,1472,3,False
+92,JumpCloud,3,0,3,False,0,0,True
+93,Keen IO,1,3,2,True,981,3,False
+94,Kindful,3,1,4,True,303,3,False
+95,Kinsta,3,5,5,True,128,1,False
+96,Kissflow,0,1,2,True,683,2,False
+97,Kissmetrics,5,3,1,False,1016,2,False
+98,Klaviyo,2,5,1,False,0,0,True
+99,Lansweeper,5,0,1,True,217,1,False
+100,LaunchDarkly,5,0,3,False,1629,3,True
+101,Leadfeeder,1,4,4,True,483,2,False
+102,Leadsquared,1,0,3,False,0,0,False
+103,LeanData,1,1,0,False,461,1,False
+104,LearnCore,3,1,1,True,0,0,False
+105,Lessonly,0,2,1,False,729,3,False
+106,LetsBuild,3,3,4,False,479,1,False
+107,Litify,1,2,2,True,1003,3,False
+108,Livestorm,3,4,0,True,1605,3,False
+109,Logentries,5,3,2,False,849,2,False
+110,LogicMonitor,4,5,2,False,500,2,True
+111,Loopio,4,2,3,False,0,0,False
+112,LumApps,3,1,1,False,12,1,False
+113,MailerLite,3,1,3,True,848,2,True
+114,MailUp Group,2,4,3,False,664,2,False
+115,MediaValet,2,4,2,False,0,0,False
+116,MeisterTask,4,0,0,True,1078,2,False
+117,Mendix,1,5,1,False,0,0,False
+118,MindTickle,0,5,3,True,321,1,False
+119,Mobiniti,5,0,1,True,1674,3,False
+120,Mode Analytics,4,4,2,False,305,3,False
+121,MoEngage,1,1,2,True,174,2,False
+122,Monday.com,5,3,5,True,0,0,False
+123,moxtra,5,2,1,True,531,1,False
+124,MURAL,4,1,2,True,1628,3,False
+125,Netsuite,5,0,2,True,69,2,True
+126,NICE Satmetrix,4,4,3,True,0,0,False
+127,Odoo,1,4,1,True,0,0,False
+128,OpenSesame,4,4,3,False,150,2,False
+129,Outreach.io,2,0,2,False,497,1,False
+130,PandaDoc,5,2,2,True,613,2,True
+131,Pax8,3,4,3,False,1670,3,False
+132,Personio,1,1,2,False,957,3,True
+133,Photobucket,2,4,2,False,0,0,False
+134,Pipefy,4,0,3,False,0,0,False
+135,Pipeliner CRM,4,5,2,True,0,0,False
+136,Planview LeanKit,2,3,2,False,1608,3,False
+137,Plumb5,1,3,2,True,138,2,False
+138,Podium,0,4,0,False,821,2,False
+139,Postman,4,2,4,True,165,1,False
+140,Practice Ignition,1,1,4,False,0,0,False
+141,Predictive Index,4,3,4,False,0,0,False
+142,Prowly,1,4,1,True,242,3,False
+143,Qualtrics,4,3,4,True,9,1,True
+144,Recruitee,1,3,1,True,0,0,False
+145,Recurly,2,1,2,False,263,1,True
+146,ReviewTrackers,2,0,3,False,478,2,False
+147,Rybbon,1,4,5,False,0,0,False
+148,Rydoo,5,4,3,True,1393,3,False
+149,Salsify,3,0,0,True,177,2,False
+150,Scoop.it,5,2,1,True,0,0,False
+151,Scoro,0,4,2,True,0,0,False
+152,SearchSpring,1,2,2,True,0,0,False
+153,Segment,5,2,3,False,162,1,True
+154,SendinBlue,2,0,3,False,1129,2,False
+155,Sendoso,4,3,4,False,291,3,False
+156,Sertifi,3,2,4,False,1300,3,False
+157,ServiceTrade,1,1,4,False,901,2,False
+158,Simpplr,3,3,5,True,1069,2,False
+159,SketchUp,2,0,5,True,328,1,False
+160,SnapEngage,4,4,5,False,0,0,False
+161,Spark Hire,4,4,3,False,1423,3,False
+162,Spendesk,4,0,4,True,57,1,False
+163,Spiff,4,4,3,True,576,2,False
+164,Splashtop,3,1,0,True,111,2,False
+165,Sprinklr,5,1,4,False,0,0,False
+166,StackAdapt,5,1,2,False,142,3,False
+167,Stripe,1,4,4,False,201,1,True
+168,Sumo Logic,1,2,0,False,0,0,False
+169,SupportNinja,5,3,4,False,0,0,False
+170,Talkdesk,1,5,5,True,193,1,True
+171,tawk.to,2,0,1,True,347,1,False
+172,Terminus,4,3,3,False,141,1,False
+173,Top Producer CRM,1,3,0,True,1063,3,False
+174,TrackMaven,0,1,4,False,63,1,False
+175,TravelPerk,5,5,2,False,359,2,False
+176,Travis CI,3,4,0,True,406,2,False
+177,Triblio,1,0,3,False,1499,3,False
+178,Twilio,4,3,5,True,0,0,True
+179,typeform,2,3,0,False,267,2,True
+180,Uberflip,3,1,1,False,776,2,True
+181,Unleashed,0,1,1,True,0,0,False
+182,UpCloud,4,1,0,True,0,0,False
+183,UserTesting,1,5,0,False,0,0,False
+184,Vectorworks,3,5,2,False,169,2,False
+185,Vendasta,3,1,0,True,3,2,False
+186,VisibleThread,2,1,3,False,1606,3,False
+187,Vyond,0,2,0,True,0,0,False
+188,Webflow,4,5,1,True,0,0,False
+189,Whatagraph,2,0,0,False,1335,3,False
+190,Whatfix,2,4,0,True,77,1,False
+191,WhiteSource Software,0,0,3,False,1166,2,False
+192,Workboard,2,1,4,True,765,3,False
+193,WorkJam,2,0,5,True,529,1,False
+194,WorkRamp,0,4,5,True,598,3,False
+195,XANT,1,1,1,False,1422,3,False
+196,Yesware,3,5,4,False,456,1,False
+197,Zapier,0,4,1,True,387,2,False
+198,ZoomInfo,2,5,0,True,365,2,True
