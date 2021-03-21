@@ -1,10 +1,27 @@
-# Data analysis
-- Document here the project: tray_hackathon
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# Tray.io March 2021 Hackathon
 
-Please document the project the better you can.
+## Objective:
+6 main SaaS performance indicators were provided by Tray.io to be analyzed:
+
+- Analyst Value (0 - 5)
+- Partner Value (0 - 5)
+- Persona Value (0 - 5)
+- Growing market
+- Organic Search Volume
+- SEO Value (0 - 3)
+
+The objective was to identify which of these features mattered most for determining SaaS "Unicorn" 🦄 API's that they would want to integrate into their business package.
+
+## Methodology:
+
+We wanted to create a model that predicts and potentially improves the decision making process. To do so we extracted the list of already served API's and combined this with the existing data (resulting in 34 matches) to identify patterns/trends in their API choices. 
+
+We then used a K-means clustering model to identify trends in Tray's SaaS API choices for their package and then created recommendations for potential company choices that their business model might be overlooking. Specifically we felt a potential expansion currently not targeted by Tray would be to introduce SaaS companies into their package that have:
+
+- High analyst value
+- High partner value
+- Low persona value
+- (Potential High SEO value; not required)
 
 # Startup the project
 
